@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Zettlr 2.3.0\n"
 "Report-Msgid-Bugs-To: https://github.com/Zettlr/Zettlr/issues\n"
-"POT-Creation-Date: 2023-02-14 02:41+0000\n"
+"POT-Creation-Date: 2023-02-17 19:58+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -922,12 +922,12 @@ msgstr "Kode"
 msgid "No footnote text found."
 msgstr ""
 
-#: source/common/modules/markdown-editor/plugins/statusbar.ts:48
+#: source/common/modules/markdown-editor/plugins/statusbar.ts:50
 #, javascript-format
 msgid "Readability mode (%s)"
 msgstr ""
 
-#: source/common/modules/markdown-editor/plugins/statusbar.ts:64
+#: source/common/modules/markdown-editor/plugins/statusbar.ts:67
 #: source/tmp/PopoverDocInfo.vue.ts:73 source/tmp/PopoverDirProps.vue.ts:144
 #: source/tmp/PopoverFileProps.vue.ts:89 source/tmp/file-item.vue.ts:134
 #: source/tmp/file-item.vue.ts:207
@@ -935,18 +935,18 @@ msgstr ""
 msgid "%s words"
 msgstr "%s ord"
 
-#: source/common/modules/markdown-editor/plugins/statusbar.ts:67
+#: source/common/modules/markdown-editor/plugins/statusbar.ts:70
 #: source/tmp/PopoverDocInfo.vue.ts:71 source/tmp/file-item.vue.ts:132
 #: source/tmp/file-item.vue.ts:205
 #, javascript-format
 msgid "%s characters"
 msgstr "%s karakterer"
 
-#: source/common/modules/markdown-editor/plugins/statusbar.ts:176
+#: source/common/modules/markdown-editor/plugins/statusbar.ts:179
 msgid "Detect automatically"
 msgstr ""
 
-#: source/common/modules/markdown-editor/plugins/statusbar.ts:211
+#: source/common/modules/markdown-editor/plugins/statusbar.ts:214
 msgid "Open diagnostics panel"
 msgstr ""
 
